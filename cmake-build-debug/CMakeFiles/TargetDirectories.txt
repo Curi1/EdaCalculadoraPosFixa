@@ -1,0 +1,3 @@
+C:/Users/tr26236es/CLionProjects/EdaCalculadoraPosFixa/cmake-build-debug/CMakeFiles/EdaCalculadoraPosFixa.dir
+C:/Users/tr26236es/CLionProjects/EdaCalculadoraPosFixa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tr26236es/CLionProjects/EdaCalculadoraPosFixa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
