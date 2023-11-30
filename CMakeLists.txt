@@ -3,4 +3,4 @@ project(EdaCalculadoraPosFixa C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(EdaCalculadoraPosFixa main.c pilha.c pilha.h pilha_string.h pilha_string.c)
+add_executable(EdaCalculadoraPosFixa main.c pilha.c pilha.h pilha_string.h pilha_string.c conversorPosFixo.c conversorPosFixo.h)
