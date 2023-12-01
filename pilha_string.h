@@ -18,3 +18,4 @@ void empilharString(PilhaString *pilha, char* valor);
 char* desempilharString(PilhaString *pilha);
 
 #endif
+

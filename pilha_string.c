@@ -24,3 +24,5 @@ char* desempilharString(PilhaString *pilha) {
     free(temp);
     return valor;
 }
+
+

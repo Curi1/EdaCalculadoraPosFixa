@@ -24,3 +24,4 @@ double desempilhar(Pilha *pilha) {
     free(temp);
     return valor;
 }
+
